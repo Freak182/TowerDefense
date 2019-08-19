@@ -20,7 +20,7 @@ public class BuildManager : MonoBehaviour
 
     [Header("Unity Setup Fields")]
     public GameObject standardTurretPrefab;
-    public GameObject anotherTurretPrefab;
+    public GameObject missileTurretPrefab;
     private GameObject turretToBuild;
 
     public GameObject GetTurretToBuild()
